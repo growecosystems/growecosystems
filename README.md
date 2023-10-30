@@ -1,0 +1,9 @@
+- 👋 Hi, I'm @growecosystems
+- 👀 I'm interested in developing a machine learning model for regenerative purposes...
+- 🌱 I'm currently learning integrations with python and API...
+- 💞️ I'm looking to collaborate on simple python code debugging solutions and environmental solutions...
+- 📫 How to contact me? Via email growecosys@gmail.com
+<!---
+growecosystems/growecosystems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
